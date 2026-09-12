@@ -1,1 +1,1 @@
-# linuxtips-eks-multicluster-management
+![ArgoCD](/assets/final-project-argocd-workload.png)
